@@ -1,6 +1,6 @@
 <?php
 	$array = array(
-		"allowed" => "true"
+		"absendroid_allowed" => "true"
 		);
 	echo json_encode($array);
 ?>
